@@ -1,0 +1,4 @@
+db_instance_name = "mysql-hu"
+db_name = "deeptgupta"
+db_port = "3306"
+db_username = "deeptgupta"
